@@ -1,0 +1,10 @@
+E:\งานเขียน\Reinfourcement learning\RL.Tests\Agent\bin\Debug\netcoreapp2.0\Agent.deps.json
+E:\งานเขียน\Reinfourcement learning\RL.Tests\Agent\bin\Debug\netcoreapp2.0\Agent.runtimeconfig.json
+E:\งานเขียน\Reinfourcement learning\RL.Tests\Agent\bin\Debug\netcoreapp2.0\Agent.runtimeconfig.dev.json
+E:\งานเขียน\Reinfourcement learning\RL.Tests\Agent\bin\Debug\netcoreapp2.0\Agent.dll
+E:\งานเขียน\Reinfourcement learning\RL.Tests\Agent\bin\Debug\netcoreapp2.0\Agent.pdb
+E:\งานเขียน\Reinfourcement learning\RL.Tests\Agent\obj\Debug\netcoreapp2.0\Agent.csproj.CoreCompileInputs.cache
+E:\งานเขียน\Reinfourcement learning\RL.Tests\Agent\obj\Debug\netcoreapp2.0\Agent.AssemblyInfoInputs.cache
+E:\งานเขียน\Reinfourcement learning\RL.Tests\Agent\obj\Debug\netcoreapp2.0\Agent.AssemblyInfo.cs
+E:\งานเขียน\Reinfourcement learning\RL.Tests\Agent\obj\Debug\netcoreapp2.0\Agent.dll
+E:\งานเขียน\Reinfourcement learning\RL.Tests\Agent\obj\Debug\netcoreapp2.0\Agent.pdb

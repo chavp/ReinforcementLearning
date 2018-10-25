@@ -1,0 +1,13 @@
+E:\งานเขียน\Reinfourcement learning\RL.Tests\RL.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\งานเขียน\Reinfourcement learning\RL.Tests\RL.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\งานเขียน\Reinfourcement learning\RL.Tests\RL.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\งานเขียน\Reinfourcement learning\RL.Tests\RL.Tests\bin\Debug\netcoreapp2.0\RL.Tests.deps.json
+E:\งานเขียน\Reinfourcement learning\RL.Tests\RL.Tests\bin\Debug\netcoreapp2.0\RL.Tests.runtimeconfig.json
+E:\งานเขียน\Reinfourcement learning\RL.Tests\RL.Tests\bin\Debug\netcoreapp2.0\RL.Tests.runtimeconfig.dev.json
+E:\งานเขียน\Reinfourcement learning\RL.Tests\RL.Tests\bin\Debug\netcoreapp2.0\RL.Tests.dll
+E:\งานเขียน\Reinfourcement learning\RL.Tests\RL.Tests\bin\Debug\netcoreapp2.0\RL.Tests.pdb
+E:\งานเขียน\Reinfourcement learning\RL.Tests\RL.Tests\obj\Debug\netcoreapp2.0\RL.Tests.csproj.CoreCompileInputs.cache
+E:\งานเขียน\Reinfourcement learning\RL.Tests\RL.Tests\obj\Debug\netcoreapp2.0\RL.Tests.AssemblyInfoInputs.cache
+E:\งานเขียน\Reinfourcement learning\RL.Tests\RL.Tests\obj\Debug\netcoreapp2.0\RL.Tests.AssemblyInfo.cs
+E:\งานเขียน\Reinfourcement learning\RL.Tests\RL.Tests\obj\Debug\netcoreapp2.0\RL.Tests.dll
+E:\งานเขียน\Reinfourcement learning\RL.Tests\RL.Tests\obj\Debug\netcoreapp2.0\RL.Tests.pdb

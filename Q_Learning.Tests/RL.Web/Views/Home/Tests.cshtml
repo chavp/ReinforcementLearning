@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "Tests";
+}
+
+<h2>Tests</h2>
+<button class="btn btn-primary" onclick="updateTimer()">Click</button>
+<span class="badge badge-secondary" id="update-timer"></span>
+@section Scripts{
+    <script src="~/lib/signalr/dist/browser/signalr.js"></script>
+    <script src="~/js/timer.js"></script>
+
+    <script>
+        function updateTimer() {
+            connection.invoke("UpdateTime").catch(function (err) {
+                return console.error(err.toString());
+            });
+        }
+
+        $(function () {
+            
+        });
+    </script>
+}

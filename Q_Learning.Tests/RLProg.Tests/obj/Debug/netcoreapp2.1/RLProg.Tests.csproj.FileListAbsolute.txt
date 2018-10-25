@@ -1,0 +1,14 @@
+D:\workspace\projects\RL\Q_Learning.Tests\RLProg.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\workspace\projects\RL\Q_Learning.Tests\RLProg.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\workspace\projects\RL\Q_Learning.Tests\RLProg.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\workspace\projects\RL\Q_Learning.Tests\RLProg.Tests\bin\Debug\netcoreapp2.1\RLProg.Tests.deps.json
+D:\workspace\projects\RL\Q_Learning.Tests\RLProg.Tests\bin\Debug\netcoreapp2.1\RLProg.Tests.runtimeconfig.json
+D:\workspace\projects\RL\Q_Learning.Tests\RLProg.Tests\bin\Debug\netcoreapp2.1\RLProg.Tests.runtimeconfig.dev.json
+D:\workspace\projects\RL\Q_Learning.Tests\RLProg.Tests\bin\Debug\netcoreapp2.1\RLProg.Tests.dll
+D:\workspace\projects\RL\Q_Learning.Tests\RLProg.Tests\bin\Debug\netcoreapp2.1\RLProg.Tests.pdb
+D:\workspace\projects\RL\Q_Learning.Tests\RLProg.Tests\obj\Debug\netcoreapp2.1\RLProg.Tests.csprojAssemblyReference.cache
+D:\workspace\projects\RL\Q_Learning.Tests\RLProg.Tests\obj\Debug\netcoreapp2.1\RLProg.Tests.csproj.CoreCompileInputs.cache
+D:\workspace\projects\RL\Q_Learning.Tests\RLProg.Tests\obj\Debug\netcoreapp2.1\RLProg.Tests.AssemblyInfoInputs.cache
+D:\workspace\projects\RL\Q_Learning.Tests\RLProg.Tests\obj\Debug\netcoreapp2.1\RLProg.Tests.AssemblyInfo.cs
+D:\workspace\projects\RL\Q_Learning.Tests\RLProg.Tests\obj\Debug\netcoreapp2.1\RLProg.Tests.dll
+D:\workspace\projects\RL\Q_Learning.Tests\RLProg.Tests\obj\Debug\netcoreapp2.1\RLProg.Tests.pdb
